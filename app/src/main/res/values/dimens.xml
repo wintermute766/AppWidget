@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_padding">16dp</dimen>
+    <dimen name="battery_corners">4dp</dimen>
+
+    <dimen name="battery_width">50dp</dimen>
+    <dimen name="battery_height">100dp</dimen>
+
+</resources>
